@@ -19,6 +19,13 @@ header p
 {
     padding: 2vh;
 }
+table
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cyan;
+}
+
 
 footer
 {
